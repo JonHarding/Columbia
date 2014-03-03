@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>D3 SVG Bar Chart</title>
+        <script type="text/javascript" src="Scripts/d3/d3.js"></script>
+    </head>
+    <body>
+		<div>
+			<a href="index.html">Back Home</a>
+		</div>
+        <script type="text/javascript">
+            // Your beautiful D3 code will go here
+			//var dataset = [5, 10, 15, 20, 25];
+			var dataset = [ 25, 7, 5, 26, 11, 8, 25, 14, 23, 19,
+                14, 11, 22, 29, 11, 13, 12, 17, 18, 10,
+                24, 18, 25, 9, 3 ];
+			
+			var w = 500;
+			var h = 100;
+			var barPadding = 1;
+			
+			var svg = d3.select("body") //select the body element
+						.append("svg") //add new svg element
+						.attr("width", w) //set the height and width
+						.attr("height", h);
+						
+			svg.selectAll("rect") //select all rects - there aren't any yet but you have select first
+				.data(dataset) //get data
+				.enter() //pass data for processing
+				.append("rect") //add rects for each datum
+				.attr("x", function(d, i) {
+					return i * (w / dataset.length);
+				})
+				.attr("y", 0)
+				.attr("width", w / dataset.length - barPadding)
+				.attr("height", 100);
+			
+        </script>
+    </body>
+</html>

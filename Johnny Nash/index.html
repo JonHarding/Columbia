@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>D3 Visualization Example</title>
+        <script type="text/javascript" src="Scripts/d3/d3.js"></script>
+    </head>
+    <body>
+		<div>
+		<a href="simplebar.html">Simple Bar Chart</a>
+		<a href="svg1.html">SVG Example 1</a>
+		<a href="svgbar.html">SVG Bar Chart</a>
+		</div>
+        <script type="text/javascript">
+            // Your beautiful D3 code will go here
+			var dataset = [5, 10, 15, 20, 25];
+			
+			d3.select("body").selectAll("p")
+				.data(dataset)
+				.enter()
+				.append("p")
+				.text(function(d) { 
+					return "I can count up to " + d; 
+				})
+				.style("color", function(d) {
+					if (d > 15) {
+						return "red";
+					} else {
+						return "black";
+					}
+				});
+				//.text("Hello World!");
+				
+			/*d3.csv("/DataFiles/food.csv", function(error, data) {
+				
+				if (error) {
+					console.log(error);
+				} else {
+				console.log(data);
+				}
+				
+			}); */
+        </script>
+    </body>
+</html>
