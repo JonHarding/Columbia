@@ -74,7 +74,7 @@ d3.json("DataFiles/flare.json", function(data) {
     .enter().append("svg:g")
       .attr("class", "cell")
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
-      .on("click", function(d) { return zoom(node == d.parent ? root : d.parent); });
+      .on("click", function(d) { console.log(node); console.log(root); console.log(d); console.log(d.parent); return zoom(node == d.parent ? root : d.parent); });
 
   cell.append("svg:rect")
       .attr("width", function(d) { return d.dx - 1; })

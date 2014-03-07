@@ -6,6 +6,17 @@
 		<script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
 		<style type="text/css">		
 
+			h3 {
+				font-size: 15px;
+				font-family: sans-serif;
+				font-weight: bold;
+			}
+			
+			.legend {
+			    margin: auto;
+			    margin-top: 5px;
+			}
+			
 			.chart {
 			    display: block;
 			    margin: auto;
@@ -20,10 +31,13 @@
 			rect {
 			    fill: none;
 			}
-
+			
 		</style>
 	</head>
 	<body>
+		<div>
+			<h3>2013 Sales by Sales Person and Product</h3>
+		</div>
 		<script type="text/javascript">
 
 			var w = 1380 - 80,
@@ -58,10 +72,10 @@
 				
 				node = root = { "key": "sales2013", "values": d3.nest()
 					.key(function(d) { return d.name; })
-					.key(function(d) { return d.product; })
+					//.key(function(d) { return d.product; })
 					.entries(data)};
 					
-					console.log (node);
+					//console.log (node);
 				  
 				var nodes = treemap.nodes(root)
 				    .filter(function(d) { return !d.values; });
@@ -73,12 +87,26 @@
 					.enter().append("svg:g")
 					.attr("class", "cell")
 					.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
-					.on("click", function(d) { console.log(node); console.log(root); console.log(d); console.log(d.parent); return zoom(node == d.parent ? root : d.parent); });
+					.on("click", function(d) { return zoom(node == d.parent ? root : d.parent); });
 
 				  cell.append("svg:rect")
 					  .attr("width", function(d) { return d.dx - 1; })
 					  .attr("height", function(d) { return d.dy - 1; })
 					  .style("fill", function(d) { return color(d.name); });
+					  /*.on("mouseover", function(d) {
+							var xPos = parseFloat(d3.select(this).attr("x")) + d.x;
+							var yPos = parseFloat(d3.select(this).attr("y")) + d.y;
+							
+							d3.select(this)
+								.append("text")
+								.attr("id", "tooltip")
+								.attr("x", xPos)
+								.attr("y", yPos);
+
+					  })
+					  .on("mouseout", function(d) {
+							d3.select("#tooltip").remove();
+					  });*/
 
 				  cell.append("svg:text")
 					  .attr("x", function(d) { return d.dx / 2; })
@@ -86,14 +114,27 @@
 					  .attr("dy", ".35em")
 					  .attr("text-anchor", "middle")
 					  .text(function(d) { return d.product; })
-					  .style("opacity", function(d) { d.w = this.getComputedTextLength(); return d.dx > d.w ? 1 : 0; });
+					  .style("opacity", function(d) { d.w = this.getComputedTextLength(); return d.dx > d.w ? 1 : 0; })
+					  .style("pointer-events", "none");
 
 				  d3.select(window).on("click", function() { zoom(root); });
+				  
+				var legend = d3.select("body")
+					.append("div")
+						.attr("class", "legend")
+						.style("width", w + "px")
+						.style("height", 30 + "px")
+					.append("svg")
+						.attr("width", w)
+						.attr("height", 30)
+					.append("svg:g")
+						.attr("transform", "translate(.5,.5)");
+						
+				legend.append("rect")
+					.attr("width", 100)
+					.attr("height", 30)
+					.attr("fill", "steelblue");
 
-				  //d3.select("select").on("change", function() {
-					//treemap.value(this.value == "size" ? size : count).nodes(root);
-					//zoom(node);
-				  //});
 			});
 
 			function size(d) {
