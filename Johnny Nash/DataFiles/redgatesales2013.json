@@ -1,0 +1,2677 @@
+[
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Zara Sheldrake",
+    "REVENUE":126.65
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"DBA Renewals",
+    "REVENUE":141.55
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Katherine Codlin",
+    "REVENUE":157.1705
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Arneh Eskandari",
+    "REVENUE":184.5
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Matthew Capon",
+    "REVENUE":192.3558
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"James BastonPitt",
+    "REVENUE":199
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Daniel Lundgren",
+    "REVENUE":199
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"James BastonPitt",
+    "REVENUE":219.1705
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Christian Curdy",
+    "REVENUE":220.3899
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Katherine Codlin",
+    "REVENUE":257.9996
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Alex Yates",
+    "REVENUE":258.2504
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Joel Benford-Brown",
+    "REVENUE":275.129
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Michael Austridge",
+    "REVENUE":285.2439
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Christian Curdy",
+    "REVENUE":289.296
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"The International SQL Renewals Team",
+    "REVENUE":296.4758
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Sarah Edwards",
+    "REVENUE":345.8
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"DBA Renewals",
+    "REVENUE":354.6775
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"The International SQL Renewals Team",
+    "REVENUE":367.3515
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Ben Tozer",
+    "REVENUE":398
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Spartak Armstrong",
+    "REVENUE":427.6028
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Tom Austin",
+    "REVENUE":455.4459
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"James BastonPitt",
+    "REVENUE":478.1482
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Mitchell Fordham",
+    "REVENUE":481.5045
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"John Swanson",
+    "REVENUE":486.875
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Justin Ott",
+    "REVENUE":494.3422
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Amy Roberts",
+    "REVENUE":499
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Spartak Armstrong",
+    "REVENUE":536
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Matthew Capon",
+    "REVENUE":576.716
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Sonya Hooks",
+    "REVENUE":614.24
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Amy She",
+    "REVENUE":627.3
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Jeff Wong",
+    "REVENUE":631.2081
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Amrit Chima",
+    "REVENUE":636.0204
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Daniel Lundgren",
+    "REVENUE":644.0367
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Carl MacDonald",
+    "REVENUE":657.7193
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Daniel Mooney",
+    "REVENUE":736
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Katherine Codlin",
+    "REVENUE":740.9812
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"DBA Renewals",
+    "REVENUE":755.7412
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Sonya Hooks",
+    "REVENUE":766.9934
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Matthew Capon",
+    "REVENUE":772.056
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Evan Moss",
+    "REVENUE":780
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Philip Wise",
+    "REVENUE":795
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Katherine Codlin",
+    "REVENUE":838.2663
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Matthew Wray",
+    "REVENUE":844.9
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Max Anderson",
+    "REVENUE":878.4101
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Sam Nardella",
+    "REVENUE":995
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Greg Caterer",
+    "REVENUE":1119
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Joel Benford-Brown",
+    "REVENUE":1122
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Greg Caterer",
+    "REVENUE":1131.5325
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Mitchell Fordham",
+    "REVENUE":1194
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Eddy Chen",
+    "REVENUE":1222.5
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"APAC Web Sales",
+    "REVENUE":1290
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Christian Curdy",
+    "REVENUE":1325.1467
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"John Nardella",
+    "REVENUE":1404.0956
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Greg Caterer",
+    "REVENUE":1445.4986
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Amrit Chima",
+    "REVENUE":1457.9772
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Arneh Eskandari",
+    "REVENUE":1474.7
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Kyle Morris",
+    "REVENUE":1475
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Rick Lopez",
+    "REVENUE":1495.2
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"William Puttock",
+    "REVENUE":1519.4778
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Melly Rosehaven ",
+    "REVENUE":1546.6398
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Jason Young",
+    "REVENUE":1689.8746
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Tom Austin",
+    "REVENUE":1817.4825
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Jenna Wass",
+    "REVENUE":1820.0528
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Jenna Wass",
+    "REVENUE":1890.1579
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"The International SQL Renewals Team",
+    "REVENUE":1949.4687
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Mitchell Fordham",
+    "REVENUE":2043.9418
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"John Nardella",
+    "REVENUE":2084.2006
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"International Web Sales",
+    "REVENUE":2113.2357
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Rick Lopez",
+    "REVENUE":2119.342
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Justin Ott",
+    "REVENUE":2187.0043
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"James BastonPitt",
+    "REVENUE":2229.3699
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Evan Moss",
+    "REVENUE":2244.6
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Alex Yates",
+    "REVENUE":2259.0323
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"William Puttock",
+    "REVENUE":2296.9551
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Robert Hake",
+    "REVENUE":2322.9004
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Chris Baxter",
+    "REVENUE":2354.4834
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Angus Chudleigh",
+    "REVENUE":2370
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Tom Austin",
+    "REVENUE":2406.5009
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Tom Austin",
+    "REVENUE":2491.134
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Amy Roberts",
+    "REVENUE":2503.5372
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Melly Rosehaven ",
+    "REVENUE":2520.0798
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Amrit Chima",
+    "REVENUE":2567.8112
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"John Nardella",
+    "REVENUE":2597.489
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Katherine Codlin",
+    "REVENUE":2639.7563
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Sarah-Louise Beckett",
+    "REVENUE":2652.7574
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Sonya Hooks",
+    "REVENUE":2654.55
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Robert Hake",
+    "REVENUE":2717
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Mitchell Fordham",
+    "REVENUE":2731.5996
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Jon Hudson",
+    "REVENUE":2774.04
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"James King",
+    "REVENUE":2834.3685
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"James BastonPitt",
+    "REVENUE":2843.0079
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Kelly McGinnis",
+    "REVENUE":2863.1784
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Evan Moss",
+    "REVENUE":2924.7347
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Luke Cooper",
+    "REVENUE":2939.1813
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Steve Harris",
+    "REVENUE":3093.4289
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"APAC Web Sales",
+    "REVENUE":3140
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Justin Ott",
+    "REVENUE":3234.8916
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Zoe Greenyer",
+    "REVENUE":3361.9421
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Tom Harris",
+    "REVENUE":3395
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Steve Harris",
+    "REVENUE":3437.1117
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Melly Rosehaven ",
+    "REVENUE":3486.7262
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"James BastonPitt",
+    "REVENUE":3577.6184
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Sonya Hooks",
+    "REVENUE":3580.5705
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Tom Austin",
+    "REVENUE":3585.7261
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Amrit Chima",
+    "REVENUE":3590.3256
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Eddy Chen",
+    "REVENUE":3658.9665
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Jenna Wass",
+    "REVENUE":3693.0623
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Greg Tillman",
+    "REVENUE":3775.5
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Greg Caterer",
+    "REVENUE":3797.3748
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Angus Chudleigh",
+    "REVENUE":3859.4
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Luke Cooper",
+    "REVENUE":3955.8058
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Eddy Chen",
+    "REVENUE":4082.6117
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Kelly McGinnis",
+    "REVENUE":4099.0953
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Angus Chudleigh",
+    "REVENUE":4149.9402
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Justin Heron",
+    "REVENUE":4166.2253
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"The Red Gate sales team",
+    "REVENUE":4395
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Greg Caterer",
+    "REVENUE":4495.733
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Mitchell Fordham",
+    "REVENUE":4498.2041
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Amrit Chima",
+    "REVENUE":4566.4154
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Hannah Drake",
+    "REVENUE":4616.85
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Alex Freeman",
+    "REVENUE":4643.9429
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"David You",
+    "REVENUE":4728
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Evan Moss",
+    "REVENUE":4827.4974
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Luke Cooper",
+    "REVENUE":4866.8843
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Sam Nardella",
+    "REVENUE":4892.4998
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"APAC Web Sales",
+    "REVENUE":4919.31
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Amrit Chima",
+    "REVENUE":4938.4088
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Sam Nardella",
+    "REVENUE":4979.8596
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Alex Freeman",
+    "REVENUE":5069.7038
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"James King",
+    "REVENUE":5189.907
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"William Puttock",
+    "REVENUE":5311.9359
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Sam Nardella",
+    "REVENUE":5332.6628
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Justin Heron",
+    "REVENUE":5337.6947
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Cassi Roper",
+    "REVENUE":5451.9898
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Christian Curdy",
+    "REVENUE":5457.2275
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Daniel Lundgren",
+    "REVENUE":5458.5829
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Zoe Greenyer",
+    "REVENUE":5480.9206
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Jason Young",
+    "REVENUE":5526.2279
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Evan Moss",
+    "REVENUE":5531.3517
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"DBA Renewals",
+    "REVENUE":5622.8496
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Steve Harris",
+    "REVENUE":5688.281
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Chris Baxter",
+    "REVENUE":5689.4598
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Arneh Eskandari",
+    "REVENUE":5812.3108
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Melly Rosehaven ",
+    "REVENUE":5841.2495
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Robert Hake",
+    "REVENUE":6042
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"James Murtagh",
+    "REVENUE":6098.5178
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Cassi Roper",
+    "REVENUE":6105.1977
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Justin Ott",
+    "REVENUE":6109.0304
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Robert Hake",
+    "REVENUE":6143.7985
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Christian Curdy",
+    "REVENUE":6173.7981
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Melly Rosehaven ",
+    "REVENUE":6176.2414
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Daphne Liang",
+    "REVENUE":6234.4522
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Cassi Roper",
+    "REVENUE":6331.8925
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Justin Heron",
+    "REVENUE":6474.9416
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Zoe Greenyer",
+    "REVENUE":6669.9588
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Matthew Capon",
+    "REVENUE":6758.4878
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"James King",
+    "REVENUE":6815.9475
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"David You DBA",
+    "REVENUE":6920.0575
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Jon Hudson",
+    "REVENUE":6975.8996
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"William Puttock",
+    "REVENUE":7031.7957
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Jon Hudson",
+    "REVENUE":7097.0176
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Greg Caterer",
+    "REVENUE":7153.4059
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Max Anderson",
+    "REVENUE":7200.2902
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"International Web Sales",
+    "REVENUE":7274.6736
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"James BastonPitt",
+    "REVENUE":7356.8025
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Evan Moss",
+    "REVENUE":7376.4026
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Angus Chudleigh",
+    "REVENUE":7451.7504
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Alex Freeman",
+    "REVENUE":7463.7562
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Chris Baxter",
+    "REVENUE":7473.8026
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Justin Heron",
+    "REVENUE":7538.2645
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Michelle Bain",
+    "REVENUE":7690.5
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Max Bausher",
+    "REVENUE":7743.2
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Matthew Capon",
+    "REVENUE":7814.4013
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Luke Cooper",
+    "REVENUE":7947.2924
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Max Bausher",
+    "REVENUE":7958.1501
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Jon Hudson",
+    "REVENUE":8018.9439
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Matthew Capon",
+    "REVENUE":8093.8162
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Heidi Smith",
+    "REVENUE":8161.0026
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Angus Chudleigh",
+    "REVENUE":8177.5131
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Amy She",
+    "REVENUE":8259.7235
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Chris Baxter",
+    "REVENUE":8380.0551
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Ben Tozer",
+    "REVENUE":8431.7216
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Max Bausher",
+    "REVENUE":8443.0434
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Angus Chudleigh",
+    "REVENUE":8944.075
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"James King",
+    "REVENUE":8945.1686
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Eddy Chen",
+    "REVENUE":8953.8463
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Victoria Wiseman",
+    "REVENUE":9053.0959
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Jason Young",
+    "REVENUE":9184.8595
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"James King",
+    "REVENUE":9381.7629
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Robert Hake",
+    "REVENUE":9495.5612
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Zoe Greenyer",
+    "REVENUE":9570.0437
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Daniel Lundgren",
+    "REVENUE":9631.3721
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"David You DBA",
+    "REVENUE":9895.0425
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Amy She",
+    "REVENUE":10091.3167
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"John Swanson",
+    "REVENUE":10263.92
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Melly Rosehaven ",
+    "REVENUE":10288.7831
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Jenna Wass",
+    "REVENUE":10531.8501
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Mariana Douglas",
+    "REVENUE":10732.4013
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Alex Yates",
+    "REVENUE":10843.5834
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Ben Tozer",
+    "REVENUE":10953.2028
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Sam Nardella",
+    "REVENUE":11077.5642
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Jason Young",
+    "REVENUE":11298.6279
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Ben Tozer",
+    "REVENUE":11346
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Eddy Chen",
+    "REVENUE":12070.3402
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"James King",
+    "REVENUE":12266.4401
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"APAC Web Sales",
+    "REVENUE":12683.7491
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Arneh Eskandari",
+    "REVENUE":12786.9667
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Justin Ott",
+    "REVENUE":12879.0853
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Amy Roberts",
+    "REVENUE":13308.5838
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"John Nardella",
+    "REVENUE":13656.0426
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Cassi Roper",
+    "REVENUE":13657.5756
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"John Swanson",
+    "REVENUE":13685.4238
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Sonya Hooks",
+    "REVENUE":13802.49
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"The Red Gate sales team",
+    "REVENUE":13895.7101
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Sam Nardella",
+    "REVENUE":14002.9696
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Sonya Hooks",
+    "REVENUE":14018.2821
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"APAC Web Sales",
+    "REVENUE":14111.1444
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"John Nardella",
+    "REVENUE":14223.8021
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Daphne Liang",
+    "REVENUE":14243
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Kyle Morris",
+    "REVENUE":14269.2252
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"The Red Gate sales team",
+    "REVENUE":14344.67
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Mariana Douglas",
+    "REVENUE":14791.9406
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Ford Anderson",
+    "REVENUE":14845.5053
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Michael Christofides",
+    "REVENUE":14901.5976
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Max Anderson",
+    "REVENUE":15064.4304
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"US Web Sales",
+    "REVENUE":15240
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Jenna Wass",
+    "REVENUE":15256.4023
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Kyle Morris",
+    "REVENUE":15313.6427
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Alex Freeman",
+    "REVENUE":15554.716
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Jeff Wong",
+    "REVENUE":15685.4752
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Ford Anderson",
+    "REVENUE":15755.6835
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"William Puttock",
+    "REVENUE":15894.5779
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"John Swanson",
+    "REVENUE":15900.1144
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Melly Rosehaven ",
+    "REVENUE":15903.4752
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Steve Harris",
+    "REVENUE":16168.9723
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Kyle Morris",
+    "REVENUE":16242.25
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Angus Chudleigh",
+    "REVENUE":16418.35
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Jon Hudson",
+    "REVENUE":16491.4358
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"John Nardella",
+    "REVENUE":16524.9301
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Daniel Lundgren",
+    "REVENUE":16613.4676
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Arneh Eskandari",
+    "REVENUE":16657.4748
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Luke Cooper",
+    "REVENUE":16720.3015
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Max Bausher",
+    "REVENUE":16787.1999
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"DBA Renewals",
+    "REVENUE":16880.2898
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"David You",
+    "REVENUE":16900.1665
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Alex Yates",
+    "REVENUE":17064.6028
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Michael Christofides",
+    "REVENUE":17114.7913
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Jon Hudson",
+    "REVENUE":17150.8513
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"The Red Gate sales team",
+    "REVENUE":17248.5225
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"The Red Gate sales team",
+    "REVENUE":17454.6546
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Cassi Roper",
+    "REVENUE":17488.9104
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Kyle Morris",
+    "REVENUE":17589.3042
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Cassi Roper",
+    "REVENUE":17673.8152
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Carl MacDonald",
+    "REVENUE":17723.9569
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Amy She",
+    "REVENUE":18562.8283
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Jon Hudson",
+    "REVENUE":18745.975
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Jeff Wong",
+    "REVENUE":18798.4173
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Justin Heron",
+    "REVENUE":18897.345
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Amy She",
+    "REVENUE":18918.5663
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Chris Baxter",
+    "REVENUE":19037.5584
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Jason Young",
+    "REVENUE":19458.5975
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Alex Freeman",
+    "REVENUE":19531.3216
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Angus Chudleigh",
+    "REVENUE":19553.0625
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Eddy Chen",
+    "REVENUE":20215.0052
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"David You",
+    "REVENUE":20421.0454
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"John Nardella",
+    "REVENUE":20816.9059
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"The Red Gate sales team",
+    "REVENUE":21456.45
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Jenna Wass",
+    "REVENUE":21646.1146
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Sarah Edwards",
+    "REVENUE":21739.5054
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Joel Benford-Brown",
+    "REVENUE":22298.7356
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Sonya Hooks",
+    "REVENUE":22692.42
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Cassi Roper",
+    "REVENUE":22971.9639
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Michelle Bain",
+    "REVENUE":23189.0068
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Carl MacDonald",
+    "REVENUE":23266.4946
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Robert Hake",
+    "REVENUE":23414.8652
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Mariana Douglas",
+    "REVENUE":23709.0365
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"The Red Gate sales team",
+    "REVENUE":23782.1008
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Ford Anderson",
+    "REVENUE":24303.2241
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Angus Chudleigh",
+    "REVENUE":24353.429
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Arneh Eskandari",
+    "REVENUE":24581.8203
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Luke Cooper",
+    "REVENUE":24687.8599
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Chris Baxter",
+    "REVENUE":24689.4426
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Michelle Bain",
+    "REVENUE":24737.2777
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Kelly McGinnis",
+    "REVENUE":25190.6502
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Jenna Wass",
+    "REVENUE":25248.0915
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Eddy Chen",
+    "REVENUE":25525.8053
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"David You",
+    "REVENUE":25630.8893
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Carl MacDonald",
+    "REVENUE":25634.844
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"APAC Web Sales",
+    "REVENUE":25864.2926
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"APAC Web Sales",
+    "REVENUE":26059.4005
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Daphne Liang",
+    "REVENUE":26132.4426
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Evan Moss",
+    "REVENUE":26196.0003
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Robert Hake",
+    "REVENUE":26219.0442
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Sonya Hooks",
+    "REVENUE":26568.2058
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Steve Harris",
+    "REVENUE":26913.7461
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Daphne Liang",
+    "REVENUE":26921.0269
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Jeff Wong",
+    "REVENUE":27582.988
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Jenna Wass",
+    "REVENUE":27618.6306
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Kelly McGinnis",
+    "REVENUE":27865.2475
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Tom Austin",
+    "REVENUE":28034.8337
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"DBA web sales",
+    "REVENUE":28110.3561
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Melissa Rivera",
+    "REVENUE":28207.3736
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Melissa Rivera",
+    "REVENUE":28897.2344
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Max Anderson",
+    "REVENUE":29255.67
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Zoe Greenyer",
+    "REVENUE":30787.2898
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Max Bausher",
+    "REVENUE":31864.8451
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"William Puttock",
+    "REVENUE":31944.3882
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Michelle Bain",
+    "REVENUE":31992.0085
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"US Web Sales",
+    "REVENUE":32203.25
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Angus Chudleigh",
+    "REVENUE":32262.7398
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Kelly McGinnis",
+    "REVENUE":32409.428
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"APAC Web Sales",
+    "REVENUE":32656.5181
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"David You",
+    "REVENUE":32801.1086
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Ford Anderson",
+    "REVENUE":32961.5009
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Daphne Liang",
+    "REVENUE":33047.8246
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Carl MacDonald",
+    "REVENUE":33102.6152
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Tom Austin",
+    "REVENUE":33143.8298
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Michelle Bain",
+    "REVENUE":33486.1333
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Michael Austridge",
+    "REVENUE":34010
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Kyle Morris",
+    "REVENUE":34498.4534
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"David You",
+    "REVENUE":34559.4912
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Daniel Lundgren",
+    "REVENUE":34643.3136
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Steve Harris",
+    "REVENUE":35237.4947
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Jeff Wong",
+    "REVENUE":35749.0138
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Justin Ott",
+    "REVENUE":35995.7205
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Justin Heron",
+    "REVENUE":36336.8072
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Chris Baxter",
+    "REVENUE":36387.0388
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Max Anderson",
+    "REVENUE":36482.5995
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Melly Rosehaven ",
+    "REVENUE":36842.5476
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Greg Caterer",
+    "REVENUE":37162.7815
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Melissa Rivera",
+    "REVENUE":37376.3643
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"APAC Web Sales",
+    "REVENUE":37666.795
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Rick Lopez",
+    "REVENUE":38366.6637
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Jason Young",
+    "REVENUE":39099.422
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Melissa Rivera",
+    "REVENUE":39355.9033
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"DBA web sales",
+    "REVENUE":39504.6148
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Mariana Douglas",
+    "REVENUE":39824.7307
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Melanie Rust",
+    "REVENUE":39902
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Arneh Eskandari",
+    "REVENUE":39921.8615
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Zoe Greenyer",
+    "REVENUE":40002.7623
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"The Red Gate sales team",
+    "REVENUE":40616.2837
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Daphne Liang",
+    "REVENUE":41119.6905
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Melissa Rivera",
+    "REVENUE":41377.7383
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Greg Caterer",
+    "REVENUE":41484.5456
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Michelle Bain",
+    "REVENUE":42732.8072
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"John Swanson",
+    "REVENUE":42939.3622
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Mariana Douglas",
+    "REVENUE":44432.8225
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Michelle Bain",
+    "REVENUE":44623.1095
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Alex Freeman",
+    "REVENUE":44756.5299
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"William Puttock",
+    "REVENUE":45217.339
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Jason Young",
+    "REVENUE":45568.9599
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Jon Hudson",
+    "REVENUE":45608.9596
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Zoe Greenyer",
+    "REVENUE":45779.734
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Kyle Morris",
+    "REVENUE":46442.4975
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Amanda Johnson",
+    "REVENUE":49274.2578
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Alex Yates",
+    "REVENUE":50775.1188
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Jenna Wass",
+    "REVENUE":51424.4963
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Jenna Wass",
+    "REVENUE":52052.1035
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Alex Freeman",
+    "REVENUE":52762.6617
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Sonya Hooks",
+    "REVENUE":53752.4288
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Amy She",
+    "REVENUE":54978.8705
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Zoe Greenyer",
+    "REVENUE":55399.0863
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Jon Hudson",
+    "REVENUE":56239.1535
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"James King",
+    "REVENUE":56291.8672
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"William Puttock",
+    "REVENUE":56404.3839
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"The Red Gate sales team",
+    "REVENUE":57504.2987
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"John Swanson",
+    "REVENUE":58632.1802
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Carl MacDonald",
+    "REVENUE":59009.0926
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Amy She",
+    "REVENUE":59825.6536
+  },
+  {
+    "PRODUCT":"Database Delivery",
+    "EMPLOYEE":"Alex Yates",
+    "REVENUE":59907.7554
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Joel Benford-Brown",
+    "REVENUE":60086.1017
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Amanda Johnson",
+    "REVENUE":60723.177
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Matthew Capon",
+    "REVENUE":61195.8467
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"APAC Web Sales",
+    "REVENUE":61281.9891
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Greg Caterer",
+    "REVENUE":61980.5183
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Mariana Douglas",
+    "REVENUE":62164.9637
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Max Bausher",
+    "REVENUE":62931.4073
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Jeff Wong",
+    "REVENUE":63415.7092
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Mariana Douglas",
+    "REVENUE":63469.4799
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Jeff Wong",
+    "REVENUE":63709.1998
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Melly Rosehaven ",
+    "REVENUE":63714.0557
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Melly Rosehaven ",
+    "REVENUE":65925.6585
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Kyle Morris",
+    "REVENUE":65959.2261
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Greg Caterer",
+    "REVENUE":65961.6069
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Ford Anderson",
+    "REVENUE":68350.4771
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Eddy Chen",
+    "REVENUE":69266.3885
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Sarah Edwards",
+    "REVENUE":69304.9927
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Daniel Lundgren",
+    "REVENUE":69516.3446
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Cassi Roper",
+    "REVENUE":72047.0695
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"David You",
+    "REVENUE":72607.3739
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Daphne Liang",
+    "REVENUE":72648.963
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Kelly McGinnis",
+    "REVENUE":73754.2913
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Sonya Hooks",
+    "REVENUE":74080.9168
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Alex Yates",
+    "REVENUE":74260.4423
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Amanda Johnson",
+    "REVENUE":74337.0123
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"David You",
+    "REVENUE":77217.7462
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"James BastonPitt",
+    "REVENUE":80556.7185
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Luke Cooper",
+    "REVENUE":81828.7163
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Zoe Greenyer",
+    "REVENUE":83646.3009
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Melissa Rivera",
+    "REVENUE":83766.2961
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Amanda Johnson",
+    "REVENUE":83898.8593
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Angus Chudleigh",
+    "REVENUE":84080.189
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Steve Harris",
+    "REVENUE":85176.954
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"Luke Cooper",
+    "REVENUE":85819.9808
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Chris Baxter",
+    "REVENUE":88058.6314
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"John Nardella",
+    "REVENUE":90094.0242
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Kelly McGinnis",
+    "REVENUE":91525.628
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"John Swanson",
+    "REVENUE":91870.2334
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Sam Nardella",
+    "REVENUE":92010.8601
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Alex Yates",
+    "REVENUE":93145.0445
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Michelle Bain",
+    "REVENUE":93160.5289
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Melissa Rivera",
+    "REVENUE":96008.4347
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Steve Harris",
+    "REVENUE":97128.853
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Amanda Johnson",
+    "REVENUE":99380.0365
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"John Nardella",
+    "REVENUE":101384.4219
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"APAC Web Sales",
+    "REVENUE":101680.8574
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Robert Hake",
+    "REVENUE":102426.1481
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Mariana Douglas",
+    "REVENUE":103153.9836
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Jeff Wong",
+    "REVENUE":104641.6339
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Zoe Greenyer",
+    "REVENUE":105742.8248
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Chris Baxter",
+    "REVENUE":105787.6508
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Daphne Liang",
+    "REVENUE":105803.7093
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Justin Ott",
+    "REVENUE":106131.0159
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"International Web Sales",
+    "REVENUE":106315.3498
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Michelle Bain",
+    "REVENUE":106461.7313
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Daniel Lundgren",
+    "REVENUE":109542.2644
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"John Swanson",
+    "REVENUE":110563.0933
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Justin Ott",
+    "REVENUE":111683.3209
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Justin Ott",
+    "REVENUE":112787.3855
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"William Puttock",
+    "REVENUE":114545.8086
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Ford Anderson",
+    "REVENUE":118983.3752
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Max Anderson",
+    "REVENUE":119261.7194
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Ford Anderson",
+    "REVENUE":123781.263
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Carl MacDonald",
+    "REVENUE":125542.7271
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Alex Freeman",
+    "REVENUE":128394.086
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Eddy Chen",
+    "REVENUE":129153.5031
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"International Web Sales",
+    "REVENUE":133835.642
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Mariana Douglas",
+    "REVENUE":137708.6382
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"David You",
+    "REVENUE":138181.9426
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Max Bausher",
+    "REVENUE":139051.1695
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Michelle Bain",
+    "REVENUE":139477.9303
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":".Net UK web sales ",
+    "REVENUE":140512.6539
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Luke Cooper",
+    "REVENUE":140785.6129
+  },
+  {
+    "PRODUCT":"SOC",
+    "EMPLOYEE":"US Web Sales",
+    "REVENUE":140852.45
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"Kelly McGinnis",
+    "REVENUE":141336.4281
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Eddy Chen",
+    "REVENUE":142181.398
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Amy She",
+    "REVENUE":142412.3529
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"US Web Sales",
+    "REVENUE":143776.1394
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Carl MacDonald",
+    "REVENUE":144464.4513
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Cassi Roper",
+    "REVENUE":147626.8762
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Robert Hake",
+    "REVENUE":147629.463
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Daniel Lundgren",
+    "REVENUE":148131.5194
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Max Bausher",
+    "REVENUE":150648.528
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Ford Anderson",
+    "REVENUE":153696.5773
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":".Net US web sales",
+    "REVENUE":156724.1667
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Amy She",
+    "REVENUE":157236.2174
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"John Nardella",
+    "REVENUE":161694.2206
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Carl MacDonald",
+    "REVENUE":166864.0882
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"William Puttock",
+    "REVENUE":167077.842
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Ford Anderson",
+    "REVENUE":171033.9113
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Jason Young",
+    "REVENUE":171574.6236
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Evan Moss",
+    "REVENUE":173689.8378
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Jason Young",
+    "REVENUE":176028.3424
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Melissa Rivera",
+    "REVENUE":178170.9928
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Kyle Morris",
+    "REVENUE":179003.3308
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Greg Caterer",
+    "REVENUE":183320.1829
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Luke Cooper",
+    "REVENUE":186687.6339
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Alex Yates",
+    "REVENUE":188527.5147
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"John Swanson",
+    "REVENUE":191662.9133
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"International Web Sales",
+    "REVENUE":191837.9219
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Robert Hake",
+    "REVENUE":192704.7941
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Justin Heron",
+    "REVENUE":202229.6084
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"William Puttock",
+    "REVENUE":202987.6539
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Michelle Bain",
+    "REVENUE":203189.405
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"DBA web sales",
+    "REVENUE":210746.1692
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Mariana Douglas",
+    "REVENUE":211691.0668
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Sam Nardella",
+    "REVENUE":219420.7432
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Melissa Rivera",
+    "REVENUE":219854.2353
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"James King",
+    "REVENUE":221534.5708
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Max Bausher",
+    "REVENUE":225175.6323
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Steve Harris",
+    "REVENUE":231896.5804
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Melissa Rivera",
+    "REVENUE":232667.5396
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"David You",
+    "REVENUE":241183.8946
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"John Swanson",
+    "REVENUE":247521.1517
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Daphne Liang",
+    "REVENUE":252726.9873
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Amanda Johnson",
+    "REVENUE":253670.4121
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Sam Nardella",
+    "REVENUE":258346.0224
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Matthew Capon",
+    "REVENUE":261185.6186
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"International Web Sales",
+    "REVENUE":270448.2595
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Jeff Wong",
+    "REVENUE":271487.5744
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Rick Lopez",
+    "REVENUE":275693.4936
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"James King",
+    "REVENUE":277265.8286
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Amanda Johnson",
+    "REVENUE":281134.2706
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Steve Harris",
+    "REVENUE":281714.7436
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Kyle Morris",
+    "REVENUE":284707.2793
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"Sam Nardella",
+    "REVENUE":285852.5417
+  },
+  {
+    "PRODUCT":"DBA Bundle",
+    "EMPLOYEE":"Max Bausher",
+    "REVENUE":291321.1403
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Kelly McGinnis",
+    "REVENUE":298450.9315
+  },
+  {
+    "PRODUCT":"Prompt",
+    "EMPLOYEE":"US Web Sales",
+    "REVENUE":308955.4716
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Kyle Morris",
+    "REVENUE":322425.9106
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Arneh Eskandari",
+    "REVENUE":323403.5809
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Daphne Liang",
+    "REVENUE":324643.6992
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Alex Freeman",
+    "REVENUE":336002.252
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Amy She",
+    "REVENUE":343632.8332
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Jason Young",
+    "REVENUE":347743.6179
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"Amanda Johnson",
+    "REVENUE":361164.141
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"James BastonPitt",
+    "REVENUE":376651.5276
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Luke Cooper",
+    "REVENUE":377553.9579
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"David You",
+    "REVENUE":378814.0399
+  },
+  {
+    "PRODUCT":"Monitor",
+    "EMPLOYEE":"James King",
+    "REVENUE":415193.1059
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Daniel Lundgren",
+    "REVENUE":429916.3969
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":"Ben Tozer",
+    "REVENUE":455520.1158
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"DBA web sales",
+    "REVENUE":458290.9553
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Alex Freeman",
+    "REVENUE":473095.0983
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"International Web Sales",
+    "REVENUE":474502.5521
+  },
+  {
+    "PRODUCT":"Other",
+    "EMPLOYEE":".NET Reflector Team",
+    "REVENUE":478987.2717
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"US Web Sales",
+    "REVENUE":482367.7974
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Carl MacDonald",
+    "REVENUE":491970.1893
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"John Nardella",
+    "REVENUE":501929.2361
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Amanda Johnson",
+    "REVENUE":561696.7593
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"International Web Sales",
+    "REVENUE":563637.3951
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Jeff Wong",
+    "REVENUE":564556.8244
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Ford Anderson",
+    "REVENUE":570640.8884
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Sonya Hooks",
+    "REVENUE":579326.1509
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Jeff Wong",
+    "REVENUE":593950.1639
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Amanda Johnson",
+    "REVENUE":689533.311
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Daphne Liang",
+    "REVENUE":697591.903
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":"Justin Heron",
+    "REVENUE":794588.5793
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":".Net UK web sales ",
+    "REVENUE":802421.8218
+  },
+  {
+    "PRODUCT":"Toolbelt",
+    "EMPLOYEE":"Kelly McGinnis",
+    "REVENUE":809021.5436
+  },
+  {
+    "PRODUCT":".NET profilers & bundles",
+    "EMPLOYEE":".Net US web sales",
+    "REVENUE":812811.4214
+  },
+  {
+    "PRODUCT":"Comparison",
+    "EMPLOYEE":"US Web Sales",
+    "REVENUE":874639.6744
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"Kelly McGinnis",
+    "REVENUE":951354.9577
+  },
+  {
+    "PRODUCT":"Backup",
+    "EMPLOYEE":"Max Bausher",
+    "REVENUE":956022.119
+  },
+  {
+    "PRODUCT":"Dev bundle",
+    "EMPLOYEE":"US Web Sales",
+    "REVENUE":1060766.466
+  }
+]

@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>D3 Data Joins</title>
+        <script type="text/javascript" src="Scripts/d3/d3.js"></script>
+    </head>
+    <body>
+		<div>
+			<a href="index.html">Back Home</a>
+		</div>
+		<p>Click on this text to remove a data value.</p>
+        <script type="text/javascript">
+            // Your beautiful D3 code will go here
+			//var dataset = [5, 10, 15, 20, 25];
+			var dataset = [ { key: 0, value: 5 },
+							{ key: 1, value: 10 },
+							{ key: 2, value: 13 },
+							{ key: 3, value: 19 },
+							{ key: 4, value: 21 },
+							{ key: 5, value: 25 },
+							{ key: 6, value: 22 },
+							{ key: 7, value: 18 },
+							{ key: 8, value: 15 },
+							{ key: 9, value: 13 },
+							{ key: 10, value: 11 },
+							{ key: 11, value: 12 },
+							{ key: 12, value: 15 },
+							{ key: 13, value: 20 },
+							{ key: 14, value: 18 },
+							{ key: 15, value: 17 },
+							{ key: 16, value: 16 },
+							{ key: 17, value: 18 },
+							{ key: 18, value: 23 },
+							{ key: 19, value: 25 } ];
+			
+			var w = 600;
+			var h = 250;
+			
+			//create key function
+			var key = function(d) {
+				return d.key;
+			};
+			
+			//create x-axis scale
+			var xScale = d3.scale.ordinal()
+								.domain(d3.range(dataset.length))
+								.rangeRoundBands([0, w], 0.05);
+								
+			//create a scale for the y-axis (much the same but uses d[1] and h
+			var yScale = d3.scale.linear()
+								.domain([0, d3.max(dataset, function(d) { return d.value; })])
+								.range([0, h]);
+			
+			var svg = d3.select("body") //select the body element
+						.append("svg") //add new svg element
+						.attr("width", w) //set the height and width
+						.attr("height", h);
+						
+			svg.selectAll("rect") //select all rects - there aren't any yet but you have select first
+				.data(dataset, key) //get data
+				.enter() //pass data for processing
+				.append("rect") //add rects for each datum
+				.attr({
+					fill: function(d) { return "rgb(0, " + (d.value) + ", " + (d.value * 2) + ")"; }, //color the bars
+					x: function(d, i) { return xScale(i); }, //dynamically set the x coordinate for each bar
+					y: function(d) { return h - yScale(d.value); }, //Height - datum value
+					width: function() { return xScale.rangeBand(); }, //dynamically set the width to preserve spacing
+					height: function(d) { return yScale(d.value); }//just the data value
+				});
+				
+			svg.selectAll("text")
+				.data(dataset, key)
+				.enter()
+				.append("text")
+				.text(function(d) {
+					return d.value;
+				})
+				.attr({
+					x: function(d, i) { return xScale(i) + xScale.rangeBand() / 2; },
+					y: function(d) { return h - yScale(d.value) + 14; },
+					"font-family": "sans-serif",
+					"font-size": "11px",
+					fill: "white",
+					"text-anchor": "middle"
+				});
+				
+			d3.select("p")
+				.on("click", function() {
+					var maxValue = 50;
+					
+					//remove first dataset element
+					dataset.shift()
+					
+					xScale.domain(d3.range(dataset.length)); //update x-axis scale
+					yScale.domain([0, d3.max(dataset, function(d) { return d.value; })]); //update y-axis scale domain
+					
+					//Select…
+					var bars = svg.selectAll("rect")
+						.data(dataset, key);
+						
+					//Enter…
+					bars.enter()
+						.append("rect")
+						.attr({
+							fill: function(d) { return "rgb(0, " + (d.value) + ", " + (d.value * 2) + ")"; }, //color the bars
+							x: w, //Set to 'w' so that bar is initially off screen
+							y: function(d) { return h - yScale(d.value); }, //Height - datum value
+							width: function() { return xScale.rangeBand(); }, //dynamically set the width to preserve spacing
+							height: function(d) { return yScale(d.value); }//just the data value
+						});
+						
+					bars.transition()
+						.duration(500)
+						.attr({
+							fill: function(d) { return "rgb(0, " + (d.value) + ", " + (d.value * 2) + ")"; }, //color the bars
+							x: function(d, i) { return xScale(i); }, //dynamically set the x coordinate for each bar
+							y: function(d) { return h - yScale(d.value); }, //Height - datum value
+							width: function() { return xScale.rangeBand(); }, //dynamically set the width to preserve spacing
+							height: function(d) { return yScale(d.value); }//just the data value
+						});
+						
+					bars.exit()
+					    .transition()
+						.duration(500)
+						.attr("x", -xScale.rangeBand())
+						.remove();
+
+					//Update all rects
+					/*svg.selectAll("rect")
+					   .data(dataset)
+					   .transition()
+					   .delay(function(d, i) {
+							return i / dataset.length * 1000;
+						})
+					   .duration(500)
+					   .attr({
+							y: function(d) { return h - yScale(d); },
+							height: function(d) { return yScale(d); },
+							fill: function(d) { return "rgb(0, " + (d) + ", " + (d * 2) + ")"; }
+						});*/
+						
+					var labels = svg.selectAll("text")
+						.data(dataset, key);
+									
+					labels.enter()
+						.append("text")
+						.text(function(d) {
+							return d.value;
+						})
+						.attr({
+							x: function() { return w; },
+							y: function(d) { return h - yScale(d.value) + 14; },
+							"font-family": "sans-serif",
+							"font-size": "11px",
+							fill: "white",
+							"text-anchor": "middle"
+						});
+						
+					labels.transition()
+						.duration(500)
+						.attr({
+							x: function(d, i) { return xScale(i) + xScale.rangeBand() / 2; },
+							y: function(d) { return h - yScale(d.value) + 14; }
+						});
+						
+					labels.exit()
+					    .transition()
+						.duration(500)
+						.attr("x", -xScale.rangeBand()) // <-- exit left
+						.remove();
+						
+					/*svg.selectAll("text")
+						.data(dataset)
+						.transition()
+					    .duration(500)
+						.text(function(d) {
+							return d;
+						})
+						.attr({
+							x: function(d, i) { return xScale(i) + xScale.rangeBand() / 2; },
+							y: function(d) { return h - yScale(d) + 14; }
+						});*/
+					
+				});
+			
+        </script>
+    </body>
+</html>

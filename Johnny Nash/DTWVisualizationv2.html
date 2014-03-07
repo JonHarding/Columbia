@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>DTW Visualization</title>
+		<script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+		<style type="text/css">		
+
+			.chart {
+			    display: block;
+			    margin: auto;
+			    margin-top: 40px;
+			}
+
+			text {
+			    font-size: 11px;
+				font-family: sans-serif;
+			}
+
+			rect {
+			    fill: none;
+			}
+
+		</style>
+	</head>
+	<body>
+		<script type="text/javascript">
+
+			var w = 1380 - 80,
+				h = 900 - 180,
+				x = d3.scale.linear().range([0, w]),
+				y = d3.scale.linear().range([0, h]),
+				color = d3.scale.category20c(),
+				root,
+				node;
+
+			var treemap = d3.layout.treemap()
+				.round(false)
+				.size([w, h])
+				.sticky(true)
+				.value(function(d) { return d.revenue; })
+				.children(function(d) { return d.values; }) ;
+
+			var svg = d3.select("body").append("div")
+				.attr("class", "chart")
+				.style("width", w + "px")
+				.style("height", h + "px")
+			  .append("svg:svg")
+				.attr("width", w)
+				.attr("height", h)
+			  .append("svg:g")
+				.attr("transform", "translate(.5,.5)");
+
+			d3.csv("DataFiles/redgate2013sales.csv", function(data) {
+				node = root = data;
+				
+				//console.log(data);
+				
+				node = root = { "key": "sales2013", "values": d3.nest()
+					.key(function(d) { return d.name; })
+					.key(function(d) { return d.product; })
+					.entries(data)};
+					
+					console.log (node);
+				  
+				var nodes = treemap.nodes(root)
+				    .filter(function(d) { return !d.values; });
+					  
+				    //console.log (nodes);
+
+				var cell = svg.selectAll("g")
+				    .data(nodes)
+					.enter().append("svg:g")
+					.attr("class", "cell")
+					.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+					.on("click", function(d) { console.log(node); console.log(root); console.log(d); console.log(d.parent); return zoom(node == d.parent ? root : d.parent); });
+
+				  cell.append("svg:rect")
+					  .attr("width", function(d) { return d.dx - 1; })
+					  .attr("height", function(d) { return d.dy - 1; })
+					  .style("fill", function(d) { return color(d.name); });
+
+				  cell.append("svg:text")
+					  .attr("x", function(d) { return d.dx / 2; })
+					  .attr("y", function(d) { return d.dy / 2; })
+					  .attr("dy", ".35em")
+					  .attr("text-anchor", "middle")
+					  .text(function(d) { return d.product; })
+					  .style("opacity", function(d) { d.w = this.getComputedTextLength(); return d.dx > d.w ? 1 : 0; });
+
+				  d3.select(window).on("click", function() { zoom(root); });
+
+				  //d3.select("select").on("change", function() {
+					//treemap.value(this.value == "size" ? size : count).nodes(root);
+					//zoom(node);
+				  //});
+			});
+
+			function size(d) {
+			  return d.revenue;
+			}
+
+			function count(d) {
+			  return 1;
+			}
+
+			function zoom(d) {
+			  var kx = w / d.dx, ky = h / d.dy;
+			  x.domain([d.x, d.x + d.dx]);
+			  y.domain([d.y, d.y + d.dy]);
+
+			  var t = svg.selectAll("g.cell").transition()
+				  .duration(d3.event.altKey ? 7500 : 750)
+				  .attr("transform", function(d) { return "translate(" + x(d.x) + "," + y(d.y) + ")"; });
+
+			  t.select("rect")
+				  .attr("width", function(d) { return kx * d.dx - 1; })
+				  .attr("height", function(d) { return ky * d.dy - 1; })
+
+			  t.select("text")
+				  .attr("x", function(d) { return kx * d.dx / 2; })
+				  .attr("y", function(d) { return ky * d.dy / 2; })
+				  .style("opacity", function(d) { return kx * d.dx > d.w ? 1 : 0; });
+
+			  node = d;
+			  d3.event.stopPropagation();
+			}
+
+		</script>
+	</body>
+</html>
