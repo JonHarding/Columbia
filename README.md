@@ -1,4 +1,3 @@
-Columbia
-========
+## Columbia
 
 Getting to grips
