@@ -65,7 +65,7 @@
 			  .append("svg:g")
 				.attr("transform", "translate(.5,.5)");
 
-			d3.csv("DataFiles/redgate2013sales.csv", function(data) {
+			d3.csv("DataFiles/2013sales.csv", function(data) {
 				node = root = data;
 				
 				//console.log(data);
@@ -132,8 +132,8 @@
 						
 				legend.append("rect")
 					.attr("width", 100)
-					.attr("height", 30)
-					.attr("fill", "steelblue");
+					.attr("height", 20)
+					.attr("fill", "black");
 
 			});
 
@@ -168,5 +168,7 @@
 			}
 
 		</script>
+		
+		<div><hr/></div>
 	</body>
 </html>
